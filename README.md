@@ -1,2 +1,2 @@
 # powercord-stereo
-Make your voice stereo with powercord.
+Make your voice stereo with powercord. 
