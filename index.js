@@ -1,5 +1,5 @@
 //
-// stereo for powercorddddd
+// stereo for powercord
 // discord.gg/hyperpop
 //
 
